@@ -1,3 +1,11 @@
+/*
+    Name: Adrian Dy
+    SID: 861118847
+    Date: 5/01/2015
+
+*/
+
+
 #ifndef LAB4_H_INCLUDED
 #define LAB4_H_INCLUDED
 

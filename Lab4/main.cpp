@@ -1,3 +1,11 @@
+/*
+    Name: Adrian Dy
+    SID: 861118847
+    Date: 5/01/2015
+
+*/
+
+
 #include <iostream>
 #include <string>
 #include "lab4.h"
