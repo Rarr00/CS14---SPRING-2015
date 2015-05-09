@@ -2,7 +2,6 @@
 Name: Adrian Dy
 SID: 861118847
 Date: 4/26/2015
-
 */
 
 // -*- bst.h -*-
@@ -154,7 +153,6 @@ public:
 /*
     Value& operator[] (int n)       //returns reference to the value field of the nth Node
     {
-
     }  */
 
     BST() : count(0), root(nil) {}

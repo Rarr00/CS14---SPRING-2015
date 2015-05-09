@@ -21,7 +21,6 @@ public:
         ifstream file;
 
         /*ifstream file(listFile.c_str());
-
         string word;
         while(file >> word)
             dictionary.push_back(word); */

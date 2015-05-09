@@ -2,7 +2,6 @@
 Name: Adrian Dy
 SID: 861118847
 Date: 4/26/2015
-
 */
 
 #include <iostream>
